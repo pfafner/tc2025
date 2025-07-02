@@ -37,15 +37,20 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 * Martes o jueves, 19:00 a 19:45.
 
+
 # Material del curso
 <div id='id-material'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------- |  ---------------
-01       | 02.07.2024   | Introducción al curso. Aspectos generales de la teoría de la computación. 
+01       | 02.07.2025   | Introducción al curso. Aspectos generales de la teoría de la computación. |  
+
+
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
 <div id='id-notas'/>
+
+Se agregarán conforme se desarrolle el curso. 
 
   
 # Proyectos
