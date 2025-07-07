@@ -64,7 +64,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 ### Textos:
 
-* [J. Hopcroft, R. Motwani, J. Ullman (2006). *Automata Theory, Languages and Computation*.](http://library.lol/main/CAC409C1878AC487AF3A39687C924FFC){:target="_blank"}
+* [J. Hopcroft, R. Motwani, J. Ullman (2006). *Automata Theory, Languages and Computation*.](https://libgen.li/ads.php?md5=4e0316bcd5fc0a7398c037ecb77bf8e4){:target="_blank"}
 
 * [J. Hopcroft, R. Motwani, J. Ullman (2007). *Teoría de autómatas, lenguajes y computación*.](libros/Hopcroft_Ullman.pdf){:target="_blank"}
 
