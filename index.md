@@ -70,7 +70,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 ### Referencias adicionales:
 
-* [H. Lewis, C. Papadimitriou (1998). *Elements of the Theory of Computation*.](http://library.lol/main/586BEB94A1648CF624F74496477E92DB){:target="_blank"}
+* [H. Lewis, C. Papadimitriou (1998). *Elements of the Theory of Computation*.](https://libgen.li/ads.php?md5=586beb94a1648cf624f74496477e92db){:target="_blank"}
 
 * [J. G. Brookshear (1988). *Theory of Computation: Formal Languages, Automata, and Complexity*.](http://library.lol/main/EE4EB25060E76527E13F904C99DE2D98){:target="_blank"}
 
