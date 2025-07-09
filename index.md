@@ -76,7 +76,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 * [J. G. Brookshear (1988). *Theory of Computation: Formal Languages, Automata, and Complexity*.](https://libgen.li/ads.php?md5=800ed3e6b91d0620db1f9e8574dcab04){:target="_blank"}
 
-* [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](libros/Brookshear.djvu){:target="_blank"}
+* [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](https://libgen.li/ads.php?md5=068cef10821208719e2a4d22f61f622c){:target="_blank"}
 
 * [R. de Castro Korgi (2004). *Teoría de la Computación, Lenguajes Autómatas, Gramáticas*.](http://library.lol/main/60501AE7549BF7B67BB11709240CE5B7){:target="_blank"}
 
