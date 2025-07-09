@@ -86,6 +86,8 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 ### Referencias avanzadas:
 
-* [C. Papadimitriou, K. Steiglitz (1994). *Computational Complexity*.](http://library.lol/main/2E57188472ACBBBB8B5860A1327FBA94){:target="_blank"}
+* [C. Papadimitriou (1994). *Computational Complexity*.](https://libgen.li/ads.php?md5=2e57188472acbbbb8b5860a1327fba94){:target="_blank"}
+
+* [C. Papadimitriou (1994). *Computational Complexity*.](https://libgen.li/ads.php?md5=2e57188472acbbbb8b5860a1327fba94){:target="_blank"}
 
 ---
