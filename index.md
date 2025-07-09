@@ -82,7 +82,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 * [E. Gaudioso Vásquez *et al.* (2017). *Introducción a la Teoría de Autómatas, Gramáticas y Lenguajes*.](https://libgen.li/ads.php?md5=7b969a8129a16b2f3679f4d4a20fff5d){:target="_blank"}
 
-* [H. Pedrycz (2022). *Automata Theory and Formal Languages*.](http://library.lol/main/AEC2FE8B00CE16488082B14183D31727){:target="_blank"}
+* [H. Pedrycz (2022). *Automata Theory and Formal Languages*.](https://libgen.li/ads.php?md5=aec2fe8b00ce16488082b14183d31727){:target="_blank"}
 
 ### Referencias avanzadas:
 
