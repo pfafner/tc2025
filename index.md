@@ -88,6 +88,6 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 * [C. Papadimitriou (1994). *Computational Complexity*.](https://libgen.li/ads.php?md5=2e57188472acbbbb8b5860a1327fba94){:target="_blank"}
 
-* [C. Papadimitriou (1994). *Computational Complexity*.](https://libgen.li/ads.php?md5=2e57188472acbbbb8b5860a1327fba94){:target="_blank"}
+* [M. Sipser (2013). *Introduction to the Theory of Computation*.](https://libgen.li/ads.php?md5=e8e586576c1b46e2e37b37c852c27dfd){:target="_blank"}
 
 ---
