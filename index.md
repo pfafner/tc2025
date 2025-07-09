@@ -80,7 +80,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 * [R. de Castro Korgi (2004). *Teoría de la Computación, Lenguajes Autómatas, Gramáticas*.](https://libgen.li/ads.php?md5=60501ae7549bf7b67bb11709240ce5b7){:target="_blank"}
 
-* [E. Gaudioso Vásquez *et al.* (2017). *Introducción a la Teoría de Autómatas, Gramáticas y Lenguajes*.](http://library.lol/main/7B969A8129A16B2F3679F4D4A20FFF5D){:target="_blank"}
+* [E. Gaudioso Vásquez *et al.* (2017). *Introducción a la Teoría de Autómatas, Gramáticas y Lenguajes*.](https://libgen.li/ads.php?md5=7b969a8129a16b2f3679f4d4a20fff5d){:target="_blank"}
 
 * [H. Pedrycz (2022). *Automata Theory and Formal Languages*.](http://library.lol/main/AEC2FE8B00CE16488082B14183D31727){:target="_blank"}
 
