@@ -74,7 +74,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 * [H. Lewis, C. Papadimitriou (1998). *Elements of the Theory of Computation*.](https://libgen.li/ads.php?md5=586beb94a1648cf624f74496477e92db){:target="_blank"}
 
-* [J. G. Brookshear (1988). *Theory of Computation: Formal Languages, Automata, and Complexity*.](http://library.lol/main/EE4EB25060E76527E13F904C99DE2D98){:target="_blank"}
+* [J. G. Brookshear (1988). *Theory of Computation: Formal Languages, Automata, and Complexity*.](https://libgen.li/ads.php?md5=800ed3e6b91d0620db1f9e8574dcab04){:target="_blank"}
 
 * [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](libros/Brookshear.djvu){:target="_blank"}
 
