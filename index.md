@@ -43,7 +43,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------- |  ---------------
-01       | 02.07.2025   | Introducción al curso. Aspectos generales de la teoría de la computación. | [Aula 01](aulas/Aula01.pdf){:target="_blank"} 
+01       | 02.07.2025   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft, Sección 1.1   
 02       | 07.07.2025   | Autómatas finitos deterministas (AFD). Función de transición.             |  
 
 
