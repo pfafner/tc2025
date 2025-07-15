@@ -46,6 +46,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 01       | 02.07.2025   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft, Sección 1.1   
 02       | 07.07.2025   | Autómatas finitos deterministas (AFD). Función de transición. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft, Secciones 2.1, 2.2 
 03       | 09.07.2025   | Expresiones regulares o *regexp*. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Hopcroft, Sección 3.1
+03       | 09.07.2025   | Expresiones regulares o *regexp*. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Hopcroft, Sección 3.1
+L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](lab/lab01.pdf){:target="_blank"}
 
 
  
