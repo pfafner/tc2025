@@ -46,10 +46,10 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 01       | 02.07.2025   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft, Sección 1.1   
 02       | 07.07.2025   | Autómatas finitos deterministas (AFD). Función de transición. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft, Secciones 2.1, 2.2 
 03       | 09.07.2025   | Expresiones regulares o *regexp*. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Hopcroft, Sección 3.1
-03       | 09.07.2025   | Árboles sintácticos de *regexp*. Notación infix, prefix y postfix. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Hopcroft, Sección 3.1
+03       | 09.07.2025   | Árboles sintácticos de *regexp*. Notación infix, prefix y postfix. <br/> [Aula 04a](aulas/Aula04a.pdf){:target="_blank"} | Hopcroft, Sección 3.1
 L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: 21 de julio** 
-04       | 21.07.2025   |   |  
-
+04       | 16.07.2025   | Función de transición extendida. <br/>  [Aula 04b](aulas/Aula04b.pdf){:target="_blank"} | Hopcroft, Sección 3.1 
+05       | 21.07.2025   |   |  
 
  
 # Lecturas complementarias
