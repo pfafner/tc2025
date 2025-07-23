@@ -57,7 +57,10 @@ L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](labs/lab01.pdf){:target="_bla
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
 <div id='id-notas'/>
 
-Se agregarán conforme se desarrolle el curso. 
+**No.**  | **Fecha**    | **Tópicos**                                             | **Recursos**
+-------- | ------------ | ------------------------------------------------------- |  -------------------------------------
+01       | 23.07.2024   | Lectura 1 - Expresiones regulares y AFNs.               | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
+02       | 23.07.2024   | Lectura 2 - Conversión de AFNs as AFDs.                 | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
 
   
 # Proyectos
