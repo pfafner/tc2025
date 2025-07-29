@@ -53,6 +53,7 @@ L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](labs/lab01.pdf){:target="_bla
 06       | 21.07.2025   | Conversión de AFN a AFD: Construcción de subconjuntos.	| Hopcroft-Ullman, Sección 2.5 
 07       | 23.07.2025   | Épsilon-transiciones. Conversión de ε-AFN a AFD.	| Hopcroft-Ullman, Sección 2.5  
 08       | 28.07.2025   |   |  
+L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 4 de agosto** 
 
  
 # Lecturas complementarias
