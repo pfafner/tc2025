@@ -53,9 +53,9 @@ L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](labs/lab01.pdf){:target="_bla
 06       | 21.07.2025   | Conversión de AFN a AFD: Construcción de subconjuntos.	| Hopcroft-Ullman, Sección 2.5 
 07       | 23.07.2025   | Épsilon-transiciones. Conversión de ε-AFN a AFD.	| Hopcroft-Ullman, Sección 2.5  
 L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 4 de agosto** 
-08       | 28.07.2025   | Conversión de regexp a AFN: Algotitmo de Thompson.  [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
-09       | 30.07.2025   | Conversión de regexp a AFN: Algotitmo de Glushkov.  [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
-10       | 30.07.2025   | Conversión de AFN a regexp: Algotitmo de reducción.  [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
+08       | 28.07.2025   | Conversión de regexp a AFN: Algoritmo de Thompson.  [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
+09       | 30.07.2025   | Conversión de regexp a AFN: Método de Glushkov.  [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
+10       | 30.07.2025   | Conversión de AFN a regexp: Algoritmo de reducción.  [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 
  
 # Lecturas complementarias
