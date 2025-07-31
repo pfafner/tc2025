@@ -49,7 +49,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 03       | 09.07.2025   | Árboles sintácticos de *regexp*. Notación infix, prefix y postfix. <br/> [Aula 04a](aulas/Aula04a.pdf){:target="_blank"} | Hopcroft, Sección 3.1
 L1       | 14.07.2025   | Lab 01. <br/> | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: 21 de julio** 
 04       | 16.07.2025   | Función de transición extendida. Configuraciones y derivaciones. <br/>  [Aula 04b](aulas/Aula04b.pdf){:target="_blank"} | Hopcroft, Sección 2.2 
-05       | 21.07.2025   | Autómatas fintiso no deterministas (AFN). <br/>  [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft, Sección 2.3  
+05       | 21.07.2025   | Autómatas finitos no deterministas (AFN). <br/>  [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft, Sección 2.3  
 06       | 21.07.2025   | Conversión de AFN a AFD: Construcción de subconjuntos.	| Hopcroft-Ullman, Sección 2.5 
 07       | 23.07.2025   | Épsilon-transiciones. Conversión de ε-AFN a AFD.	| Hopcroft-Ullman, Sección 2.5  
 L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 4 de agosto** 
