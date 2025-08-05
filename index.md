@@ -57,6 +57,8 @@ L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_bla
 09       | 30.07.2025   | Conversión de regexp a AFN: Método de Glushkov.  [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 10       | 30.07.2025   | Conversión de AFN a regexp: Algoritmo de reducción.  [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 11       | 04.08.2025   | Conversión de AFN a regexp: Método de Arden.  [Aula 07b](aulas/Aula07b.pdf){:target="_blank"} | 
+L2       | 28.07.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> **Entrega: 11 de agosto** 
+
  
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
