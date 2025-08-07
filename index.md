@@ -56,8 +56,9 @@ L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_bla
 08       | 28.07.2025   | Conversión de regexp a AFN: Algoritmo de Thompson.  [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 09       | 30.07.2025   | Conversión de regexp a AFN: Método de Glushkov.  [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 10       | 30.07.2025   | Conversión de AFN a regexp: Algoritmo de reducción.  [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
-11       | 04.08.2025   | Conversión de AFN a regexp: Método de Arden.  [Aula 07b](aulas/Aula07b.pdf){:target="_blank"} | 
-L2       | 28.07.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> **Entrega: 11 de agosto** 
+11       | 04.08.2025   | Conversión de AFN a regexp: Método de Arden.  [Aula 07b](aulas/Aula07b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
+L3       | 04.08.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> **Entrega: 11 de agosto** 
+12       | 06.08.2025   | Propiedades de cerradura. Autómata producto.  | Hopcroft-Ullman, Sección 3.4
 
  
 # Lecturas complementarias
