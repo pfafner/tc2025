@@ -76,6 +76,15 @@ L3       | 04.08.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_bla
 
 En el curso se desarrollarán tres proyectos, los cuales se indicarán más adelante.
 
+## Primer Proyecto 
+
+**No.**  | **Fecha**    | **Tópicos**                                             | **Recursos**
+-------- | ------------ | ------------------------------------------------------- |  ---------------------
+1        | 12.08.2025   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.    | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 08-12 septiembre.**
+2        | 08.09.2025   | Presentación y revisión del proyecto.
+3        | 12.09.2025   | Entrega del reporte final.
+
+
 
 # Referencias
 <div id='id-ref'/> 
