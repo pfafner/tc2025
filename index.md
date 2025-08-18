@@ -88,7 +88,6 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 3        | 12.09.2025   | Entrega del reporte final.
 
 
-
 # Referencias
 <div id='id-ref'/> 
 
