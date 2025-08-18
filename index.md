@@ -59,7 +59,8 @@ L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_bla
 11       | 04.08.2025   | Conversión de AFN a regexp: Método de Arden.  [Aula 07b](aulas/Aula07b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 L3       | 04.08.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> **Entrega: 11 de agosto** 
 12       | 06.08.2025   | Propiedades de cerradura. Producto de autómatas.  [Aula 08](aulas/Aula08.pdf){:target="_blank"}  | Hopcroft-Ullman, Sección 3.4
-13       | 13.08.2025   | Minimización de autómatas. <br/>  | Hopcroft-Ullman, Sección 3.4
+13       | 11.08.2025   | Propiedades de decisión. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
+14       | 13.08.2025   | Minimización de autómatas. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
 L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 25 de agosto** 
 
  
