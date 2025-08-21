@@ -58,12 +58,12 @@ L2       | 28.07.2025   | Lab 02. <br/> | [Lab 02](labs/lab02.pdf){:target="_bla
 10       | 30.07.2025   | Conversión de AFN a regexp: Algoritmo de reducción.  [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2  
 11       | 04.08.2025   | Conversión de AFN a regexp: Método de Arden.  [Aula 07b](aulas/Aula07b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 L3       | 04.08.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> **Entrega: 11 de agosto** 
-12       | 06.08.2025   | Propiedades de cerradura. Producto de autómatas.  [Aula 08](aulas/Aula08.pdf){:target="_blank"}  | Hopcroft-Ullman, Sección 3.4
-13       | 11.08.2025   | Propiedades de decisión. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
-14       | 13.08.2025   | Minimización de autómatas. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
+12       | 06.08.2025   | Propiedades de cerradura. Producto de autómatas.  [Aula 08](aulas/Aula08.pdf){:target="_blank"}  | Hopcroft-Ullman, Sección 4.2
+13       | 11.08.2025   | Propiedades de decisión. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.3
+14       | 13.08.2025   | Equivalencia y minimización de autómatas. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.4
 L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 25 de agosto** 
-15       | 20.08.2025   | *Pumping Lemma* para lenguajes regulares. Ejemplos de lenguajes no regulares. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
-16       | 20.08.2025   | Introducción a las gramáticas libres de contexto.  | Hopcroft-Ullman, Sección 4.1  
+15       | 20.08.2025   | *Pumping Lemma* para lenguajes regulares. Ejemplos de lenguajes no regulares. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 <br/> [*Pumping Lemma* Wiki](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages){:target="_blank"}
+16       | 20.08.2025   | Introducción a las gramáticas libres de contexto.  | Hopcroft-Ullman, Sección 5.1  
 
  
 # Lecturas complementarias
