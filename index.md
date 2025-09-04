@@ -66,7 +66,8 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 16       | 20.08.2025   | Gramáticas libres de contexto (CFG). Notación Backus-Naur.  [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.1  
 17       | 27.08.2025   | Ejemplos de CFGs. Comentarios sobre gramáticas sensibles al contexto. | Hopcroft-Ullman, Sección 5.1  
 18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. |  
-19       | 01.09.2025   | *Parsing trees*. <br/> |  
+19       | 01.09.2025   | Ambigüedad. Remoción de la ambigüedad. <br/> |  
+20       | 03.09.2025   | Algoritmo de simplificación de gramáticas CFG. <br/> |  
 
  
 # Lecturas complementarias
