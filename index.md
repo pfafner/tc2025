@@ -65,7 +65,8 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 15       | 20.08.2025   | *Pumping Lemma* para lenguajes regulares. Ejemplos de lenguajes no regulares. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 <br/> [*Pumping Lemma* for RL](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages){:target="_blank"}
 16       | 20.08.2025   | Gramáticas libres de contexto (CFG). Notación Backus-Naur.  [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.1  
 17       | 27.08.2025   | Ejemplos de CFGs. Comentarios sobre gramáticas sensibles al contexto. | Hopcroft-Ullman, Sección 5.1  
-18       | 01.09.2025   | *Parsing trees*. <br/> |  
+18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. |  
+19       | 01.09.2025   | *Parsing trees*. <br/> |  
 
  
 # Lecturas complementarias
