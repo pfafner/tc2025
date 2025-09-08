@@ -94,6 +94,23 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 2        | 08.09.2025   | Presentación y revisión del proyecto.
 3        | 12.09.2025   | Entrega del reporte final.
 
+## Horarios Primer Proyecto 
+
+**No.**  | **Hora**    | **Grupo** 
+-------- | ----------- | ----------
+01 | 5:20 | Grupo 4
+02 | 5:32 | Grupo 10
+03 | 5:44 | Grupo 6
+04 | 5:56 | Grupo 9
+05 | 6:08 | Grupo 8
+06 | 6:20 | Grupo 5
+07 | 6:32 | Grupo 11
+08 | 6:44 | Grupo 12
+09 | 6:56 | Grupo 3
+10 | 7:08 | Grupo 1
+11 | 7:20 | Grupo 2
+11 | 7:32 | Grupo 7
+
 
 # Referencias
 <div id='id-ref'/> 
