@@ -104,12 +104,12 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 04 | 5:56 | Grupo 9
 05 | 6:08 | Grupo 8
 06 | 6:20 | Grupo 5
-07 | 6:32 | Grupo 11
-08 | 6:44 | Grupo 12
+07 | 6:32 | José Pablo López 
+08 | 6:44 | Jorge Luis López 
 09 | 6:56 | Grupo 3
 10 | 7:08 | Grupo 1
 11 | 7:20 | Grupo 2
-11 | 7:32 | Grupo 7
+12 | 7:32 | Grupo 7
 
 
 # Referencias
