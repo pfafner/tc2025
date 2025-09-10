@@ -1,0 +1,119 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2025
+03.09.2025
+
+Ejemplo de reducción de una gramática.
+(Algoritmo de simplificación)
+
+Ejemplo: Reducir la siguiente gramática
+
+	S  ->  AB | ACA | ab
+	A  ->  aAa | B | CD
+	B  ->  bB | bA
+	C  ->  cC | e
+	D  ->  aDc | CC | ABb
+
+
+1. DEL-e 
+
+	Eliminamos C -> e:
+
+	S  ->  AB | ACA | ab | AA 
+	A  ->  aAa | B | CD | D 
+	B  ->  bB | bA
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb |	C | e 
+
+	Eliminamos D -> e: 
+
+	S  ->  AB | ACA | ab | AA 
+	A  ->  aAa | B | CD | D | C | e
+	B  ->  bB | bA
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb |	C | ac
+
+	Eliminamos A -> e: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e 
+	A  ->  aAa | B | CD | D | C | aa 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb |	C | ac | Bb 
+
+
+2. UNIT 
+
+	S -> B, S -> A, S -> C, A -> B, A -> D, A -> C, D -> C   
+
+	S -> A -> B   
+	S -> A -> D -> C 
+
+
+	Eliminamos D -> C: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e 
+	A  ->  aAa | B | CD | D | C | aa 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c
+
+	Eliminamos A -> D: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e 
+	A  ->  aAa | B | CD | C | aa | aDc | CC | ABb | ac | Bb | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 
+
+	Eliminamos A -> C: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e 
+	A  ->  aAa | B | CD | aa | aDc | CC | ABb | ac | Bb | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 
+
+	Eliminamos S -> A: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | C | aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | e
+	A  ->  aAa | B | CD | aa | aDc | CC | ABb | ac | Bb | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 
+
+	Eliminamos S -> C: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | e
+	A  ->  aAa | B | CD | aa | aDc | CC | ABb | ac | Bb | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 
+
+	Eliminamos S -> B: 
+
+	S  ->  AB | ACA | ab | AA | AC | CA | aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | bB | bA | b | e
+	A  ->  aAa | B | CD | aa | aDc | CC | ABb | ac | Bb | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 
+
+	Eliminamos A -> B: 
+
+	S  ->  AB | ACA | ab | AA | AC | CA | aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | bB | bA | b | e
+	A  ->  aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | bB | bA | b
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 	
+
+
+3. USELESS 
+
+	3a) No hay símbolos no generadores 
+
+	3b) Inalcanzables: 
+	
+	S  ->  AB | ACA | ab | AA | AC | CA | aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | bB | bA | b | e
+	A  ->  aAa | CD | aa | aDc | CC | ABb | ac | Bb | cC | c | bB | bA | b
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | ac | Bb | cC | c 	
