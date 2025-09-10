@@ -70,6 +70,7 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 20       | 03.09.2025   | Algoritmo de simplificación de gramáticas CFG. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Ejemplo 1](labs/Ejemplo1_Reduccion.txt){:target="_blank"}  [Ejemplo 2](labs/Ejemplo2_Reduccion.txt){:target="_blank"} 
 21       | 08.09.2025   | Revisión del primer proyecto. <br/> | 
 22       | 10.09.2025   | Formas normales. Forma Normal de Chomsky <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
+L5       | 10.09.2025   | Lab 05. <br/> | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 24 de septiembre** 
 
  
 # Lecturas complementarias
@@ -96,22 +97,14 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 2        | 08.09.2025   | Presentación y revisión del proyecto.
 3        | 12.09.2025   | Entrega del reporte final.
 
-## Horarios Primer Proyecto 
 
-**No.**  | **Hora**    | **Grupo** 
--------- | ----------- | ----------
-01 | 5:20 | Grupo 4
-02 | 5:32 | Grupo 10
-03 | 5:44 | Grupo 6
-04 | 5:56 | Grupo 9
-05 | 6:08 | Grupo 8
-06 | 6:20 | Grupo 5
-07 | 6:32 | José Pablo López 
-08 | 6:44 | Jorge Luis López 
-09 | 6:56 | Grupo 3
-10 | 7:08 | Grupo 1
-11 | 7:20 | Grupo 2
-12 | 7:32 | Grupo 7
+## Segundo Proyecto 
+
+**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+-------- | ------------ | --------------------------------------------------------------- |  ---------------------
+1        | 10.09.2025   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: 13 de octubre.**
+2        | 13.10.2025   | Presentación y revisión del proyecto.
+3        | 17.10.2025   | Entrega del reporte final. 
 
 
 # Referencias
