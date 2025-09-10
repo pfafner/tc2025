@@ -1,0 +1,109 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2025
+03.09.2025
+
+Ejemplo de reducción de una gramática.
+(Algoritmo de simplificación)
+
+Ejemplo: Reducir la siguiente gramática
+
+	S  ->  ACD
+	A  ->  a
+	B  ->  e
+	C  ->  ED | e
+	D  ->  BC | e
+	E  ->  b
+
+
+1. DEL-e
+
+	Producciones e:		B -> e,  C -> e,  D -> e	
+
+	Eliminamos B -> e:
+
+	S  ->  ACD
+	A  ->  a
+	C  ->  ED | e
+	D  ->  BC | C | e
+	E  ->  b
+
+	Eliminamos C -> e: 
+
+	S  ->  ACD | AD
+	A  ->  a
+	C  ->  ED 
+	D  ->  BC | B | C | e
+	E  ->  b
+
+	Eliminamos D -> e:
+
+	S  ->  ACD | AD | AC | A 
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+
+2. UNIT 
+
+	Producciones unarias:  S -> A,  C -> E,  D -> B,  D -> C
+
+	Eliminamos S -> A: 
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Eliminamos C -> E: 
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | b  
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Eliminamos D -> B: 
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | b  
+	D  ->  BC | C 
+	E  ->  b	
+
+	Eliminamos D -> C: 
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | b  
+	D  ->  BC | ED | b
+	E  ->  b
+
+
+3. USELESS 
+
+	3a.) Eliminamos los símbolos no generadores (no terminan)
+
+	B es un no generador
+
+	Eliminar B:
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | b  
+	D  ->  ED | b
+	E  ->  b
+
+
+	3b.) Eliminar los símbolos inalcanzables
+
+	No hay inalcanzables 
+
+	Al final, la gramática resultante es: 
+
+	S  ->  ACD | AD | AC | a
+	A  ->  a
+	C  ->  ED | b  
+	D  ->  ED | b
+	E  ->  b
