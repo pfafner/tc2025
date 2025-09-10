@@ -65,9 +65,11 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 15       | 20.08.2025   | *Pumping Lemma* para lenguajes regulares. Ejemplos de lenguajes no regulares. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 <br/> [*Pumping Lemma* for RL](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages){:target="_blank"}
 16       | 20.08.2025   | Gramáticas libres de contexto (CFG). Notación Backus-Naur.  [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.1  
 17       | 27.08.2025   | Ejemplos de CFGs. Comentarios sobre gramáticas sensibles al contexto. | Hopcroft-Ullman, Sección 5.1  
-18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. |  
-19       | 01.09.2025   | Ambigüedad. Remoción de la ambigüedad. <br/> |  
-20       | 03.09.2025   | Algoritmo de simplificación de gramáticas CFG. <br/> | [Ejemplo 1](labs/Ejemplo1_Reduccion.txt){:target="_blank"}  [Ejemplo 2](labs/Ejemplo2_Reduccion.txt){:target="_blank"} 
+18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
+19       | 01.09.2025   | Ambigüedad. Remoción de la ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
+20       | 03.09.2025   | Algoritmo de simplificación de gramáticas CFG. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Ejemplo 1](labs/Ejemplo1_Reduccion.txt){:target="_blank"}  [Ejemplo 2](labs/Ejemplo2_Reduccion.txt){:target="_blank"} 
+21       | 08.09.2025   | Revisión del primer proyecto. <br/> | 
+22       | 10.09.2025   | Formas normales. Forma Normal de Chomsky <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
 
  
 # Lecturas complementarias
