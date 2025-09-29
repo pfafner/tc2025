@@ -71,7 +71,8 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 21       | 08.09.2025   | Revisión del primer proyecto. <br/> | 
 22       | 10.09.2025   | Formas normales. Forma Normal de Chomsky <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
 L5       | 10.09.2025   | Lab 05. <br/> | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 24 de septiembre**  
-23       | 24.09.2025   | Autómatas de pila (PDA).  <br/> | Hopcroft-Ullman, Sección 5.2    
+23       | 24.09.2025   | Autómatas de pila (PDA).  <br/> | Hopcroft-Ullman, Sección 5.2  
+24       |         |    |  
 
  
 # Lecturas complementarias
