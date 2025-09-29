@@ -64,15 +64,15 @@ L3       | 04.08.2025   | Lab 03. <br/> | [Lab 03](labs/lab03.pdf){:target="_bla
 L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 25 de agosto** 
 15       | 20.08.2025   | *Pumping Lemma* para lenguajes regulares. Ejemplos de lenguajes no regulares. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 <br/> [*Pumping Lemma* for RL](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages){:target="_blank"}
 16       | 20.08.2025   | Gramáticas libres de contexto (CFG). Notación Backus-Naur.  [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.1  
-17       | 27.08.2025   | Ejemplos de CFGs. Comentarios sobre gramáticas sensibles al contexto. | Hopcroft-Ullman, Sección 5.1  
-18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
-19       | 01.09.2025   | Ambigüedad. Remoción de la ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
+17       | 27.08.2025   | Ejemplos de CFGs. Comentarios sobre gramáticas sensibles al contexto. | Hopcroft-Ullman, Sección 5.2  
+18       | 01.09.2025   | *Parsing trees*. Derivaciones a la izquierda y a la derecha. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.3 
+19       | 01.09.2025   | Ambigüedad. Remoción de la ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.4 
 20       | 03.09.2025   | Algoritmo de simplificación de gramáticas CFG. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Ejemplo 1](labs/Ejemplo1_Reduccion.txt){:target="_blank"}  [Ejemplo 2](labs/Ejemplo2_Reduccion.txt){:target="_blank"} 
 21       | 08.09.2025   | Revisión del primer proyecto. <br/> | 
-22       | 10.09.2025   | Formas normales. Forma Normal de Chomsky <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
+22       | 10.09.2025   | Formas normales. Forma Normal de Chomsky <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.3 
 L5       | 10.09.2025   | Lab 05. <br/> | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 24 de septiembre**  
-23       | 24.09.2025   | Autómatas de pila (PDA). <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.2  
-24       | 29.09.2025   | Ejemplos. Equivalencia entre PDA y CFG. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 5.2 
+23       | 24.09.2025   | Autómatas de pila (PDA). <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Hopcroft-Ullman, Secciones 6.1 y 6.2  
+24       | 29.09.2025   | Ejemplos. Equivalencia entre PDA y CFG. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 6.3 
 
  
 # Lecturas complementarias
