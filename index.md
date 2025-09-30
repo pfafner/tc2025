@@ -73,6 +73,7 @@ L4       | 18.08.2025   | Lab 04. <br/> | [Lab 04](labs/lab04.pdf){:target="_bla
 L5       | 10.09.2025   | Lab 05. <br/> | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 24 de septiembre**  
 23       | 24.09.2025   | Autómatas de pila (PDA). <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Hopcroft-Ullman, Secciones 6.1 y 6.2  
 24       | 29.09.2025   | Ejemplos. Equivalencia entre PDA y CFG. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 6.3 
+L6       | 29.09.2025   | Lab 06. <br/> | [Lab 06](labs/lab06.pdf){:target="_blank"} <br/> **Entrega: 6 de octubre**  
 
  
 # Lecturas complementarias
