@@ -75,7 +75,7 @@ L5       | 10.09.2025   | Lab 05. <br/> | [Lab 05](labs/lab05.pdf){:target="_bla
 24       | 29.09.2025   | Ejemplos. Equivalencia entre PDA y CFG. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 6.3 
 L6       | 29.09.2025   | Lab 06. <br/> | [Lab 06](labs/lab06.pdf){:target="_blank"} <br/> **Entrega: 6 de octubre**  
 25       | 01.09.2025   | *Pumping Lemma* para lenguajes libres de contexto. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 6.3 
-26       | 01.09.2025   | Introducción al análisis de algoritmos. <br/>  |  
+26       | 01.09.2025   | Introducción al análisis de algoritmos. Notación asintótica. <br/>  |  
 
  
 # Lecturas complementarias
