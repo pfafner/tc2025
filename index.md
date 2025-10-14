@@ -77,7 +77,7 @@ L6       | 29.09.2025   | Lab 06. <br/> | [Lab 06](labs/lab06.pdf){:target="_bla
 25       | 01.10.2025   | *Pumping Lemma* para lenguajes libres de contexto. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 6.3 
 26       | 06.10.2025   | Introducción al análisis de algoritmos. Notación asintótica. [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
 L7       | 08.10.2025   | Lab 07. <br/> | [Lab 07](labs/lab07.pdf){:target="_blank"} <br/> **Entrega: 8 de octubre**  
-27       | 13.10.2025   |   |   
+27       | 13.10.2025   | Máquinas de Turing. <br/>  |   
 
  
 # Lecturas complementarias
