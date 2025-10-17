@@ -99,6 +99,7 @@ L7       | 08.10.2025   | Lab 07. <br/> | [Lab 07](labs/lab07.pdf){:target="_bla
 En el curso se desarrollarán tres proyectos, los cuales se indicarán más adelante.
 
 ## Primer Proyecto 
+<div id='id-proy1'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                             | **Recursos**
 -------- | ------------ | ------------------------------------------------------- |  ---------------------
@@ -108,12 +109,34 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 
 ## Segundo Proyecto 
+<div id='id-proy2'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
 -------- | ------------ | --------------------------------------------------------------- |  ---------------------
 1        | 10.09.2025   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: 22 de octubre.**
 2        | 22.10.2025   | Presentación y revisión del proyecto.
 3        | 24.10.2025   | Entrega del reporte final. 
+
+
+## Horarios presentación Proyecto 2 
+<div id='id-horarios-proy2'/>
+
+Lugar para presentar el proyecto:  Departamento de Mátemática, Sala I-108.
+
+**Fecha**    | **Hora**  | ** Grupo** 
+------------ | --------- | -------------
+22.10.2025   | 5:20      | Jorge Luis López 
+22.10.2025   | 5:35      | Grupo 09 
+22.10.2025   | 5:50      | Grupo 02 
+22.10.2025   | 6:05      | Grupo 07 
+22.10.2025   | 6:20      | Grupo 05 
+22.10.2025   | 6:35      | José Pablo López  
+22.10.2025   | 6:50      | Grupo 03 
+22.10.2025   | 7:05      | Grupo 04 
+22.10.2025   | 7:20      | Grupo 01 
+22.10.2025   | 7:35      | Grupo 08 
+22.10.2025   | 7:50      | Grupo 10 
+22.10.2025   | 8:05      | Grupo 06
 
 
 # Referencias
