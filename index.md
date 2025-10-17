@@ -123,7 +123,7 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 
 Lugar para presentar el proyecto:  Departamento de Mátemática, Sala I-108.
 
-**Fecha**    | **Hora**  | ** Grupo** 
+**Fecha**    | **Hora**  | **Grupo** 
 ------------ | --------- | -------------
 22.10.2025   | 5:20      | Jorge Luis López 
 22.10.2025   | 5:35      | Grupo 09 
