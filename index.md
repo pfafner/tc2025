@@ -78,10 +78,12 @@ L6       | 29.09.2025   | Lab 06. <br/> | [Lab 06](labs/lab06.pdf){:target="_bla
 26       | 06.10.2025   | Introducción al análisis de algoritmos. Notación asintótica. [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
 L7       | 08.10.2025   | Lab 07. <br/> | [Lab 07](labs/lab07.pdf){:target="_blank"} <br/> **Entrega: 8 de octubre**  
 27       | 13.10.2025   | Máquinas de Turing. <br/>  |   
-28       | 15.10.2025   | Ejemplos de máquinas de Turing. <br/>  |   
+28       | 15.10.2025   | Ejemplos de máquinas de Turing. <br/>  |  
+29       | 22.10.2025   | Revisión del segundo proyecto. <br/> | 
+30       | 27.10.2025   | Más ejemplos de máquinas de Turing. <br/> | 
+L8       | 27.10.2025   | Lab 08. <br/> | [Lab 08](labs/lab08.pdf){:target="_blank"} <br/> **Entrega: 3 de noviembre**  
 
 
- 
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
 <div id='id-notas'/>
@@ -118,25 +120,14 @@ En el curso se desarrollarán tres proyectos, los cuales se indicarán más adel
 3        | 24.10.2025   | Entrega del reporte final. 
 
 
-## Horarios presentación Proyecto 2 
-<div id='id-horarios-proy2'/>
+## Tercer Proyecto 
+<div id='id-proy3'/>
 
-Lugar para presentar el proyecto:  Departamento de Mátemática, Sala I-108.
-
-**Fecha**    | **Hora**  | **Grupo** 
------------- | --------- | -------------
-22.10.2025   | 5:20      | Jorge Luis López 
-22.10.2025   | 5:35      | Grupo 09 
-22.10.2025   | 5:50      | Grupo 02 
-22.10.2025   | 6:05      | Grupo 07 
-22.10.2025   | 6:20      | Grupo 05 
-22.10.2025   | 6:35      | José Pablo López  
-22.10.2025   | 6:50      | Grupo 03 
-22.10.2025   | 7:05      | Grupo 04 
-22.10.2025   | 7:20      | Grupo 01 
-22.10.2025   | 7:35      | Grupo 08 
-22.10.2025   | 7:50      | Grupo 10 
-22.10.2025   | 8:05      | Grupo 06
+**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+-------- | ------------ | --------------------------------------------------------------- |  ---------------------
+1        | 27.10.2025   | Proyecto 3 - Máquinas de Turing           .                     | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> **Fecha de Entrega: 21 de noviembre.**
+2        | 17-21.11.2025   | Presentación y revisión del proyecto.
+3        | 21.11.2025   | Entrega del reporte final. 
 
 
 # Referencias
