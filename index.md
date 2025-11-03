@@ -82,6 +82,7 @@ L7       | 08.10.2025   | Lab 07. <br/> | [Lab 07](labs/lab07.pdf){:target="_bla
 29       | 22.10.2025   | Revisión del segundo proyecto. <br/> | 
 30       | 27.10.2025   | Más ejemplos de máquinas de Turing. <br/> | 
 L8       | 27.10.2025   | Lab 08. <br/> | [Lab 08](labs/lab08.pdf){:target="_blank"} <br/> **Entrega: 3 de noviembre**  
+30       | 29.10.2025   | Extensiones de máquinas de Turing. <br/> | 
 
 
 # Lecturas complementarias
