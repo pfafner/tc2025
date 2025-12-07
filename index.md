@@ -97,7 +97,7 @@ L8       | 27.10.2025   | Lab 08. <br/> | [Lab 08](labs/lab08.pdf){:target="_bla
 01       | 23.07.2025   | Lectura 1 - Expresiones regulares y AFNs.               | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
 02       | 23.07.2025   | Lectura 2 - Conversión de AFNs as AFDs.                 | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
 03       | 20.08.2025   | Lectura 3 - Algoritmo de minimización de AFDs.          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"} 
-04       |              |                                                         |  
+04       | 29.10.2025   | Lectura 4 -                                             |  
 
   
 # Proyectos
