@@ -103,7 +103,7 @@ L8       | 27.10.2025   | Lab 08. <br/> | [Lab 08](labs/lab08.pdf){:target="_bla
 # Proyectos
 <div id='id-proyectos'/>
 
-En el curso se desarrollarán tres proyectos, los cuales se indicarán más adelante.
+En el curso se desarrollarán tres proyectos.
 
 ## Primer Proyecto 
 <div id='id-proy1'/>
